@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "8.1"
+  },
+  {
+    "repository": "crdroidandroid/android_kernel_huawei_kiwi",
+    "target_path": "kernel/huawei/kiwi",
+    "branch": "8.1"
+  },
+  {
+    "repository": "crdroidandroid/android_vendor_huawei_kiwi",
+    "target_path": "vendor/huawei/kiwi",
+    "branch": "8.1"
+  },
+  {
+    "repository": "crdroidandroid/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "8.1"
+  },
+  {
+    "repository": "crdroidandroid/android_packages_apps_FlipFlap",
+    "target_path": "packages/apps/FlipFlap",
+    "branch": "8.1"
+  }
+]
